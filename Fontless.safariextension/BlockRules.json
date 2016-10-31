@@ -1,0 +1,11 @@
+[
+  {
+    "trigger": {
+      "url-filter": ".*",
+      "resource-type": ["font"]
+    },
+    "action": {
+      "type": "block"
+    }
+  }
+]
